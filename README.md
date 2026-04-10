@@ -85,19 +85,6 @@ cashbridge/
 - **GPS-based matching** — find providers within 1km
 - **Commission model** — providers earn ₹2-10 per transaction
 
----
 
-## 🛡 API Endpoints
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/api/providers?amount=X` | Get nearby providers |
-| POST | `/api/request` | Create cash request |
-| POST | `/api/accept` | Provider accepts request |
-| POST | `/api/confirm` | Confirm OTP + complete transaction |
-| GET | `/api/status/{txn_id}` | Check transaction status |
-| POST | `/api/rate` | Submit rating |
 
----
-
-*Built for NEOFuture Hackathon 2025 — Track 6: Open Innovation*
