@@ -1,4 +1,4 @@
-// 20 users pool — 10 are randomly picked and shuffled every page load
+
 
 const ALL_USERS = [
   { id: 'u1', name: 'Rahul Sharma', avatar: 'RS', avatarClass: 'av-blue', cash_available: 800, trust_score: 94, rating: 4.9, total_transactions: 87, distance_m: 120, city: 'Andheri West', verified: true, online: true, badge: 'badge-green', trust_label: 'Highly Trusted', phone: '9820001001' },
